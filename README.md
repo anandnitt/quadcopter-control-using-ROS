@@ -7,7 +7,7 @@ TODO:Once the gazebo model is built, PID control algorithm is being used in real
 ## Simulation output
 ![alt text](images/title.png "Description goes here")
 
-## Mentions
+
 ## Simulation drive link
 Video link: https://www.youtube.com/watch?v=8FpdRIHFUY8&feature=youtu.be
 
